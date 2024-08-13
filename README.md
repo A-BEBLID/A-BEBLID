@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @A-BEBLID.
+- 👋 Hi, I’m @Na.
 - 👀 I’m interested in NLP, LSTM, MFCC...
 - 🌱 I’m currently learning speech emotion feature extraction.
 - 💞️ I’m looking to collaborate on applications of emotion recognition.
